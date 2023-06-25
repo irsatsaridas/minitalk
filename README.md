@@ -1,9 +1,5 @@
 # 42cursus - minitalk
 
-![](https://github.com/hanshazairi/42-minitalk/workflows/norminette/badge.svg)
-![](https://github.com/hanshazairi/42-minitalk/workflows/build/badge.svg)
-![](https://img.shields.io/tokei/lines/github/hanshazairi/42-minitalk?style=plastic?color=blue)
-
 ## Project Information
 
 ### About
@@ -35,8 +31,3 @@ The purpose of this project is to code a small data exchange program using *UNIX
 - [`sleep`](https://man7.org/linux/man-pages/man3/sleep.3.html)
 - [`usleep`](https://man7.org/linux/man-pages/man3/usleep.3.html)
 - [`exit`](https://man7.org/linux/man-pages/man3/exit.3.html)
-
-## Compilation
-
-1. Clone repo including [`libft`](../../../42-libft) submodule via `git clone --recursive https://github.com/hanshazairi/42-minitalk.git`.
-2. Compile files into `server` & `client` executables via `make -C 42-minitalk`.
