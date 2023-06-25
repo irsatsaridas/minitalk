@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   client.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: hbaddrul <hbaddrul@student.42kl.edu.my>    +#+  +:+       +#+        */
+/*   By: isaridas <isaridas@student.42istanbul.com  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/08/08 17:58:19 by hbaddrul          #+#    #+#             */
-/*   Updated: 2021/11/24 16:06:30 by hbaddrul         ###   ########.fr       */
+/*   Created: 2023/06/24 12:14:54 by isaridas          #+#    #+#             */
+/*   Updated: 2023/06/24 12:14:57 by isaridas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
